@@ -71,7 +71,7 @@ const Contact = () => {
             <Button 
               size="lg" 
               className="bg-primary hover:bg-primary/90 glow-green"
-              onClick={() => window.location.href = 'mailto:angelina.alex@example.com'}
+              onClick={() => window.location.href = 'mailto:anjilina180@gmail.com'}
             >
               <Mail className="mr-2 h-5 w-5" />
               Send Me an Email
